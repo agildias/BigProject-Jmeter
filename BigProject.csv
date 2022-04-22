@@ -1,0 +1,181 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1650283880354,190,Create List,200,OK,Board 2-1,text,true,,989,936,1,4,https://stagingapi.cicle.app/api/v1/lists,190,0,120
+1650283880357,226,Notification private Chat,200,OK,Notification 4-1,text,true,,1372,943,1,4,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,226,0,118
+1650283880545,184,Card Pertamax First Kanban to Second,200,OK,Board 2-1,text,true,,3872,1128,1,4,https://staging.cicle.app/api/v1/lists/position,184,0,151
+1650283880729,58,Card Pertamax Second Kanban to First,200,OK,Board 2-1,text,true,,3872,1128,1,4,https://staging.cicle.app/api/v1/lists/position,58,0,0
+1650283880787,33,Card Guard from FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1158,1,4,https://staging.cicle.app/api/v1/cards/position,33,0,0
+1650283880820,56,Card Guard from SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,54,0,0
+1650283880345,551,Text message,200,OK,GroupChat 1-1,text,true,,1581,949,2,8,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,551,0,118
+1650283880876,33,Members Toggle,200,OK,Board 2-1,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,33,0,0
+1650283880910,34,List Kanban From FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,34,0,0
+1650283880944,44,List Kanban From SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,44,0,0
+1650283880863,356,Notification private Chat,200,OK,Notification 4-2,text,true,,1371,943,2,8,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,356,0,95
+1650283880989,396,Create List,200,OK,Board 2-1,text,true,,989,936,2,8,https://stagingapi.cicle.app/api/v1/lists,396,0,0
+1650283881385,33,Card Pertamax First Kanban to Second,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,33,0,0
+1650283881419,56,Card Pertamax Second Kanban to First,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,56,0,0
+1650283881475,34,Card Guard from FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,34,0,0
+1650283881509,39,Card Guard from SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,39,0,0
+1650283881548,42,Members Toggle,200,OK,Board 2-1,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,42,0,0
+1650283881590,34,List Kanban From FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,34,0,0
+1650283881625,59,List Kanban From SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,59,0,0
+1650283880896,1472,Delete message,200,OK,GroupChat 1-1,text,true,,1639,926,2,8,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,1472,0,0
+1650283881220,1181,Navigate to Private chat,200,OK,Notification 4-2,text,true,,18293,869,2,8,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,1151,0,0
+1650283882402,3371,Notification comment,200,OK,Notification 4-2,text,true,,213513,847,2,8,https://stagingapi.cicle.app/api/v1/notifications,2184,0,0
+1650283880584,24263,Navigate to Private chat,200,OK,Notification 4-1,text,true,,18294,869,2,8,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,24232,0,0
+1650283880857,26151,Create List,200,OK,Board 2-2,text,true,,988,936,2,8,https://stagingapi.cicle.app/api/v1/lists,26151,0,92
+1650283881684,25329,Create List,200,OK,Board 2-1,text,true,,989,936,2,8,https://stagingapi.cicle.app/api/v1/lists,25329,0,0
+1650283907014,63,Card Pertamax First Kanban to Second,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,63,0,0
+1650283907078,43,Card Pertamax Second Kanban to First,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,43,0,0
+1650283907009,136,Card Pertamax First Kanban to Second,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,136,0,99
+1650283907121,35,Card Guard from FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,35,0,0
+1650283907146,33,Card Pertamax Second Kanban to First,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,33,0,0
+1650283907156,33,Card Guard from SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,33,0,0
+1650283907180,45,Card Guard from FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,45,0,0
+1650283907189,38,Members Toggle,200,OK,Board 2-1,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,38,0,0
+1650283907226,34,Card Guard from SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,34,0,0
+1650283907227,34,List Kanban From FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,34,0,0
+1650283907261,38,Members Toggle,200,OK,Board 2-2,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,38,0,0
+1650283907261,39,List Kanban From SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,39,0,0
+1650283907300,37,List Kanban From FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,37,0,0
+1650283907338,32,List Kanban From SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,32,0,0
+1650283907371,2844,Create List,200,OK,Board 2-2,text,true,,989,936,2,8,https://stagingapi.cicle.app/api/v1/lists,2844,0,0
+1650283910214,35,Card Pertamax First Kanban to Second,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,35,0,0
+1650283910249,35,Card Pertamax Second Kanban to First,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,35,0,0
+1650283910285,34,Card Guard from FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,33,0,0
+1650283910319,32,Card Guard from SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,32,0,0
+1650283910352,31,Members Toggle,200,OK,Board 2-2,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,31,0,0
+1650283910384,35,List Kanban From FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,35,0,0
+1650283910419,70,List Kanban From SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,70,0,0
+1650283910489,8401,Create List,502,Bad Gateway,Board 2-2,text,false,,444,936,2,8,https://stagingapi.cicle.app/api/v1/lists,8401,0,0
+1650283918891,45,Card Pertamax First Kanban to Second,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,45,0,0
+1650283918937,34,Card Pertamax Second Kanban to First,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,34,0,0
+1650283918971,34,Card Guard from FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,34,0,0
+1650283919006,33,Card Guard from SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,33,0,0
+1650283919041,34,Members Toggle,200,OK,Board 2-2,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,34,0,0
+1650283919076,41,List Kanban From FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,41,0,0
+1650283919118,60,List Kanban From SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,60,0,0
+1650283907300,14482,Create List,200,OK,Board 2-1,text,true,,989,936,2,8,https://stagingapi.cicle.app/api/v1/lists,14482,0,0
+1650283921783,39,Card Pertamax First Kanban to Second,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,39,0,0
+1650283921823,45,Card Pertamax Second Kanban to First,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,45,0,0
+1650283921868,38,Card Guard from FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,38,0,0
+1650283921907,33,Card Guard from SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,33,0,0
+1650283921941,33,Members Toggle,200,OK,Board 2-1,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,33,0,0
+1650283921974,33,List Kanban From FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,33,0,0
+1650283922008,33,List Kanban From SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,33,0,0
+1650283882368,39837,Tag Message,200,OK,GroupChat 1-1,text,true,,2090,1482,2,8,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,39837,0,0
+1650283919179,3028,Create List,200,OK,Board 2-2,text,true,,988,936,2,8,https://stagingapi.cicle.app/api/v1/lists,3028,0,0
+1650283922208,40,Card Pertamax First Kanban to Second,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,40,0,0
+1650283922248,40,Card Pertamax Second Kanban to First,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,39,0,0
+1650283880847,41447,Text message,200,OK,GroupChat 1-2,text,true,,1581,949,2,8,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,41447,0,98
+1650283922288,32,Card Guard from FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,32,0,0
+1650283922321,50,Card Guard from SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,50,0,0
+1650283922372,36,Members Toggle,200,OK,Board 2-2,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,36,0,0
+1650283922408,33,List Kanban From FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,33,0,0
+1650283922442,70,List Kanban From SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,70,0,0
+1650283922206,2625,Text message,200,OK,GroupChat 1-1,text,true,,1581,949,2,8,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,2625,0,0
+1650283922513,2558,Create List,200,OK,Board 2-2,text,true,,989,936,2,8,https://stagingapi.cicle.app/api/v1/lists,2558,0,0
+1650283925071,34,Card Pertamax First Kanban to Second,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,34,0,0
+1650283925105,36,Card Pertamax Second Kanban to First,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,36,0,0
+1650283922041,3125,Create List,200,OK,Board 2-1,text,true,,989,936,2,8,https://stagingapi.cicle.app/api/v1/lists,3125,0,0
+1650283925141,33,Card Guard from FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,33,0,0
+1650283925165,33,Card Pertamax First Kanban to Second,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,33,0,0
+1650283925174,33,Card Guard from SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,33,0,0
+1650283925199,39,Card Pertamax Second Kanban to First,200,OK,Board 2-1,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,39,0,0
+1650283925208,34,Members Toggle,200,OK,Board 2-2,text,true,,3872,915,2,8,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,34,0,0
+1650283925239,32,Card Guard from FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,32,0,0
+1650283925242,32,List Kanban From FIRST TO SECOND,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,32,0,0
+1650283925271,35,Card Guard from SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1158,2,8,https://staging.cicle.app/api/v1/cards/position,35,0,0
+1650283925274,35,List Kanban From SECOND TO FIRST,200,OK,Board 2-2,text,true,,3872,1128,2,8,https://staging.cicle.app/api/v1/lists/position,35,0,0
+1650283925307,34,Members Toggle,200,OK,Board 2-1,text,true,,3872,915,1,7,https://staging.cicle.app/api/v1/cards/624fdddf3ddcc172ffb9d9c5/members/624bd6240584aec0d02efa3a,34,0,0
+1650283925341,35,List Kanban From FIRST TO SECOND,200,OK,Board 2-1,text,true,,3872,1128,1,7,https://staging.cicle.app/api/v1/lists/position,35,0,0
+1650283925377,38,List Kanban From SECOND TO FIRST,200,OK,Board 2-1,text,true,,3872,1128,1,7,https://staging.cicle.app/api/v1/lists/position,38,0,0
+1650283922296,3684,Delete message,200,OK,GroupChat 1-2,text,true,,1639,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,3684,0,0
+1650283924831,1347,Delete message,200,OK,GroupChat 1-1,text,true,,1639,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,1347,0,0
+1650283925980,2334,Tag Message,200,OK,GroupChat 1-2,text,true,,2091,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,2334,0,0
+1650283928315,1365,Text message,200,OK,GroupChat 1-2,text,true,,1580,949,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,1364,0,0
+1650283929680,1219,Delete message,200,OK,GroupChat 1-2,text,true,,1639,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,1219,0,0
+1650283904848,28533,Notification comment,200,OK,Notification 4-1,text,true,,213607,847,2,6,https://stagingapi.cicle.app/api/v1/notifications,28266,0,0
+1650283926178,7570,Tag Message,200,OK,GroupChat 1-1,text,true,,2091,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,7570,0,0
+1650283930899,3169,Tag Message,200,OK,GroupChat 1-2,text,true,,2091,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,3169,0,0
+1650283885774,49859,Navigate to comment,200,OK,Notification 4-2,text,true,,3711258,882,2,6,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,26706,0,0
+1650283935634,353,Notification private Chat,200,OK,Notification 4-2,text,true,,1372,943,2,6,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,353,0,0
+1650283935988,1306,Navigate to Private chat,200,OK,Notification 4-2,text,true,,18293,869,2,6,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,1221,0,0
+1650283934068,5717,Text message,200,OK,GroupChat 1-2,text,true,,1581,949,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,5716,0,0
+1650283880345,64912,schedule,200,OK,Schedule 3-1,text,true,,5023017,949,2,6,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,41762,0,130
+1650283880858,69025,schedule,200,OK,Schedule 3-2,text,true,,5023449,949,2,6,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,43843,0,106
+1650283933749,18101,Text message,200,OK,GroupChat 1-1,text,true,,1581,949,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,18101,0,0
+1650283939785,13001,Delete message,200,OK,GroupChat 1-2,text,true,,1639,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,13001,0,0
+1650283937294,16187,Notification comment,200,OK,Notification 4-2,text,true,,213513,847,2,6,https://stagingapi.cicle.app/api/v1/notifications,14542,0,0
+1650283952787,1575,Tag Message,200,OK,GroupChat 1-2,text,true,,2091,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,1575,0,62
+1650283954362,2508,Text message,200,OK,GroupChat 1-2,text,true,,1581,949,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,2508,0,0
+1650283933381,24526,Navigate to comment,200,OK,Notification 4-1,text,true,,3712671,882,2,6,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,18633,0,0
+1650283957908,4740,Notification private Chat,200,OK,Notification 4-1,text,true,,1372,943,2,6,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,4740,0,59
+1650283945258,18636,Create Event Schedule,200,OK,Schedule 3-1,text,true,,302738,1071,2,6,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,17310,0,108
+1650283951851,12504,Delete message,200,OK,GroupChat 1-1,text,true,,1828,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,12504,0,66
+1650283956871,14193,Delete message,200,OK,GroupChat 1-2,text,true,,1637,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,14193,0,0
+1650283962649,8491,Navigate to Private chat,200,OK,Notification 4-1,text,true,,18294,869,2,6,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,8463,0,0
+1650283964355,7228,Tag Message,200,OK,GroupChat 1-1,text,true,,2090,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,7228,0,0
+1650283971064,2646,Tag Message,200,OK,GroupChat 1-2,text,true,,2091,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,2646,0,0
+1650283971141,3391,Notification comment,200,OK,Notification 4-1,text,true,,213513,847,2,6,https://stagingapi.cicle.app/api/v1/notifications,2386,0,0
+1650283973711,2248,Text message,200,OK,GroupChat 1-2,text,true,,1581,949,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,2248,0,0
+1650283949886,30477,Create Event Schedule,200,OK,Schedule 3-2,text,true,,302735,1071,2,6,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,30046,0,71
+1650283975960,4461,Delete message,200,OK,GroupChat 1-2,text,true,,1639,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,4461,0,0
+1650283971583,9339,Text message,200,OK,GroupChat 1-1,text,true,,1581,949,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,9339,0,0
+1650283980922,1347,Delete message,200,OK,GroupChat 1-1,text,true,,1639,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,1347,0,0
+1650283982270,1431,Tag Message,200,OK,GroupChat 1-1,text,true,,2091,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,1431,0,0
+1650283953482,33890,Navigate to comment,200,OK,Notification 4-2,text,true,,3712671,882,2,6,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,17468,0,65
+1650283983702,11310,Text message,502,Bad Gateway,GroupChat 1-1,text,false,,444,949,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,11310,0,0
+1650283995013,357,Delete message,200,OK,GroupChat 1-1,text,true,,1639,926,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages/6251998096738a8af635c8a0,357,0,0
+1650283995371,2711,Tag Message,200,OK,GroupChat 1-1,text,true,,2090,1482,2,6,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,2710,0,0
+1650283987373,13164,Notification private Chat,200,OK,Notification 4-2,text,true,,1372,943,2,5,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,13164,0,0
+1650283980421,20117,Tag Message,200,OK,GroupChat 1-2,text,true,,2091,1482,1,5,https://stagingapi.cicle.app/api/v1/group-chats/624efe4a3ddcc12e5fb91ef7/messages,20117,0,0
+1650284000537,738,Navigate to Private chat,200,OK,Notification 4-2,text,true,,18293,869,2,4,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,679,0,0
+1650284001275,3151,Notification comment,200,OK,Notification 4-2,text,true,,213512,847,2,4,https://stagingapi.cicle.app/api/v1/notifications,2169,0,0
+1650283974532,39329,Navigate to comment,200,OK,Notification 4-1,text,true,,3713180,882,2,4,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,23263,0,0
+1650284013861,54,Notification private Chat,200,OK,Notification 4-1,text,true,,1372,943,2,4,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,54,0,0
+1650283963895,60028,Archieve Schedule event,504,Gateway Time-out,Schedule 3-1,text,false,,459,1071,2,4,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,60028,0,0
+1650284013915,14352,Navigate to Private chat,200,OK,Notification 4-1,text,true,,18293,869,2,4,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,14268,0,0
+1650284004427,31130,Navigate to comment,200,OK,Notification 4-2,text,true,,3713180,882,2,4,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,12597,0,0
+1650284035557,3174,Notification private Chat,200,OK,Notification 4-2,text,true,,1372,943,2,4,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,3174,0,62
+1650284038732,602,Navigate to Private chat,200,OK,Notification 4-2,text,true,,18294,869,2,4,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,572,0,0
+1650283980364,61178,Archieve Schedule event,200,OK,Schedule 3-2,text,true,,2170694,1071,2,4,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,58290,0,0
+1650284028268,24226,Notification comment,200,OK,Notification 4-1,text,true,,213512,847,2,4,https://stagingapi.cicle.app/api/v1/notifications,22938,0,60
+1650284039334,13763,Notification comment,200,OK,Notification 4-2,text,true,,213513,847,2,4,https://stagingapi.cicle.app/api/v1/notifications,13456,0,0
+1650284053097,25422,Navigate to comment,200,OK,Notification 4-2,text,true,,3713275,882,2,4,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,20573,0,0
+1650284078520,98,Notification private Chat,200,OK,Notification 4-2,text,true,,1372,943,2,4,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,98,0,0
+1650284078618,202,Navigate to Private chat,200,OK,Notification 4-2,text,true,,18294,869,2,4,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,200,0,0
+1650284078820,1446,Notification comment,200,OK,Notification 4-2,text,true,,213513,847,2,4,https://stagingapi.cicle.app/api/v1/notifications,1111,0,0
+1650284023924,59984,schedule,200,OK,Schedule 3-1,text,true,,5027768,949,2,4,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,28018,0,79
+1650284041543,48768,schedule,200,OK,Schedule 3-2,text,true,,5027768,949,2,4,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,35800,0,62
+1650284052494,38764,Navigate to comment,200,OK,Notification 4-1,text,true,,3713180,882,2,4,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,14928,0,0
+1650284091258,149,Notification private Chat,200,OK,Notification 4-1,text,true,,1372,943,2,4,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,149,0,76
+1650284091407,298,Navigate to Private chat,200,OK,Notification 4-1,text,true,,18294,869,2,4,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,267,0,0
+1650284091705,1698,Notification comment,200,OK,Notification 4-1,text,true,,213513,847,2,4,https://stagingapi.cicle.app/api/v1/notifications,815,0,0
+1650284080266,18011,Navigate to comment,200,OK,Notification 4-2,text,true,,3713180,882,2,4,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,9871,0,0
+1650284090311,16592,Create Event Schedule,200,OK,Schedule 3-2,text,true,,302738,1071,2,3,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,16334,0,0
+1650284083909,26807,Create Event Schedule,200,OK,Schedule 3-1,text,true,,302738,1071,2,3,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,25612,0,0
+1650284110716,12170,Archieve Schedule event,502,Bad Gateway,Schedule 3-1,text,false,,444,1071,2,3,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,12170,0,93
+1650284093403,40617,Navigate to comment,200,OK,Notification 4-1,text,true,,3713180,882,1,3,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,29641,0,0
+1650284134020,50,Notification private Chat,200,OK,Notification 4-1,text,true,,1372,943,1,3,https://stagingapi.cicle.app/api/v1/chats?limit=1&page=1&sortBy=updatedAt&orderBy=desc&filter=unread&type=chat&companyId=61fd1bca835d691ce6fc470d,50,0,0
+1650284134071,92,Navigate to Private chat,200,OK,Notification 4-1,text,true,,18294,869,1,3,https://stagingapi.cicle.app/v2/chats/62517761e1a7f40a8f2cbb54?limit=20,63,0,0
+1650284134163,1129,Notification comment,200,OK,Notification 4-1,text,true,,213513,847,1,3,https://stagingapi.cicle.app/api/v1/notifications,697,0,0
+1650284135293,26313,Navigate to comment,200,OK,Notification 4-1,text,true,,3713274,882,1,3,https://stagingapi.cicle.app/v2/events/62522f74e6338f164906e295/occurrences/20220413,21114,0,0
+1650284106903,61448,Archieve Schedule event,200,OK,Schedule 3-2,text,true,,2170694,1071,2,2,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,58707,0,60
+1650284122886,50389,schedule,200,OK,Schedule 3-1,text,true,,5030501,949,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,42333,0,0
+1650284173276,17407,Create Event Schedule,200,OK,Schedule 3-1,text,true,,302738,1071,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,16571,0,57
+1650284168352,50065,schedule,200,OK,Schedule 3-2,text,true,,5030502,949,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,26638,0,110
+1650284218418,18313,Create Event Schedule,200,OK,Schedule 3-2,text,true,,302738,1071,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,16353,0,0
+1650284190683,47788,Archieve Schedule event,200,OK,Schedule 3-1,text,true,,2170694,1071,2,2,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,29562,0,0
+1650284236732,50860,Archieve Schedule event,200,OK,Schedule 3-2,text,true,,2170693,1071,2,2,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,39155,0,137
+1650284238471,74503,schedule,200,OK,Schedule 3-1,text,true,,5033236,949,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,47582,0,68
+1650284287593,28982,schedule,200,OK,Schedule 3-2,text,true,,5033236,949,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,22391,0,0
+1650284312975,12986,Create Event Schedule,200,OK,Schedule 3-1,text,true,,302738,1071,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,12461,0,106
+1650284316576,24725,Create Event Schedule,200,OK,Schedule 3-2,text,true,,302738,1071,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,24080,0,87
+1650284325961,33957,Archieve Schedule event,200,OK,Schedule 3-1,text,true,,2170694,1071,2,2,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,31303,0,0
+1650284341302,39026,Archieve Schedule event,200,OK,Schedule 3-2,text,true,,2170694,1071,2,2,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,28158,0,0
+1650284359919,41011,schedule,200,OK,Schedule 3-1,text,true,,5035970,949,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,32395,0,0
+1650284400931,17546,Create Event Schedule,200,OK,Schedule 3-1,text,true,,302737,1071,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,16750,0,102
+1650284380328,48987,schedule,200,OK,Schedule 3-2,text,true,,5035970,949,2,2,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/occurrences?fromDate=2022-03-31T17:00:00.000Z&untilDate=2022-05-30T17:00:00.000Z,21819,0,65
+1650284418478,24923,Archieve Schedule event,200,OK,Schedule 3-1,text,true,,2170694,1071,2,2,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,21589,0,0
+1650284429315,23925,Create Event Schedule,200,OK,Schedule 3-2,text,true,,302738,1071,1,1,https://stagingapi.cicle.app/api/v1/schedules/624efe4a3ddcc17d0eb91efd/events,22189,0,0
+1650284453240,32843,Archieve Schedule event,200,OK,Schedule 3-2,text,true,,2170694,1071,1,1,https://stagingapi.cicle.app/api/v1/events/6252eab1e1a7f483612f0400/archived,19954,0,83
